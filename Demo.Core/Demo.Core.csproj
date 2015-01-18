@@ -49,13 +49,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DomainObjects\Student.cs" />
-    <Compile Include="ExtensionMethods\CollectionExtensions.cs" />
-    <Compile Include="ExtensionMethods\EnumerableExtensions.cs" />
-    <Compile Include="ExtensionMethods\ObjectExtensions.cs" />
-    <Compile Include="ExtensionMethods\QueryableExtensions.cs" />
-    <Compile Include="ExtensionMethods\RouteValueDictionaryExtensions.cs" />
-    <Compile Include="ExtensionMethods\StringExtenstions.cs" />
-    <Compile Include="ExtensionMethods\TypeExtensions.cs" />
     <Compile Include="Infrastructure\PagedListResult.cs" />
     <Compile Include="Interfaces\IRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
