@@ -1,0 +1,21 @@
+G:\Sample Project\WebApiDemo\DemoCore\bin\Debug\Demo.Core.dll
+G:\Sample Project\WebApiDemo\DemoCore\bin\Debug\Demo.Core.pdb
+G:\Sample Project\WebApiDemo\DemoCore\bin\Debug\Newtonsoft.Json.dll
+G:\Sample Project\WebApiDemo\DemoCore\bin\Debug\System.Linq.Dynamic.dll
+G:\Sample Project\WebApiDemo\DemoCore\bin\Debug\Newtonsoft.Json.xml
+G:\Sample Project\WebApiDemo\DemoCore\obj\Debug\Demo.Core.dll
+G:\Sample Project\WebApiDemo\DemoCore\obj\Debug\Demo.Core.pdb
+G:\Sample Project\WebApiDemo\Demo.Core\bin\Debug\Demo.Core.dll
+G:\Sample Project\WebApiDemo\Demo.Core\bin\Debug\Demo.Core.pdb
+G:\Sample Project\WebApiDemo\Demo.Core\bin\Debug\Newtonsoft.Json.dll
+G:\Sample Project\WebApiDemo\Demo.Core\bin\Debug\System.Linq.Dynamic.dll
+G:\Sample Project\WebApiDemo\Demo.Core\bin\Debug\Newtonsoft.Json.xml
+G:\Sample Project\WebApiDemo\Demo.Core\obj\Debug\Demo.Core.csprojResolveAssemblyReference.cache
+G:\Sample Project\WebApiDemo\Demo.Core\obj\Debug\Demo.Core.dll
+G:\Sample Project\WebApiDemo\Demo.Core\obj\Debug\Demo.Core.pdb
+G:\WebApi\Demo.Core\bin\Debug\Demo.Core.dll
+G:\WebApi\Demo.Core\bin\Debug\Demo.Core.pdb
+G:\WebApi\Demo.Core\bin\Debug\Newtonsoft.Json.xml
+G:\WebApi\Demo.Core\obj\Debug\Demo.Core.csprojResolveAssemblyReference.cache
+G:\WebApi\Demo.Core\obj\Debug\Demo.Core.dll
+G:\WebApi\Demo.Core\obj\Debug\Demo.Core.pdb

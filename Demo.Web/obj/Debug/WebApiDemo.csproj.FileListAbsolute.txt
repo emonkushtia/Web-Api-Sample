@@ -1,0 +1,17 @@
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\WebApiDemo.dll.config
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\WebApiDemo.dll
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\WebApiDemo.pdb
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\Newtonsoft.Json.dll
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\System.Net.Http.Formatting.dll
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\System.Web.Http.dll
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\System.Web.Http.WebHost.dll
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\Newtonsoft.Json.xml
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\System.Net.Http.Formatting.xml
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\System.Web.Http.xml
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\System.Web.Http.WebHost.xml
+G:\Sample Project\WebApiDemo\WebApiDemo\obj\Debug\WebApiDemo.csprojResolveAssemblyReference.cache
+G:\Sample Project\WebApiDemo\WebApiDemo\obj\Debug\WebApiDemo.dll
+G:\Sample Project\WebApiDemo\WebApiDemo\obj\Debug\WebApiDemo.pdb
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\DemoCore.dll
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\System.Linq.Dynamic.dll
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\DemoCore.pdb

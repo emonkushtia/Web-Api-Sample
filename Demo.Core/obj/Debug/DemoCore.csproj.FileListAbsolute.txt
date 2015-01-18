@@ -1,0 +1,7 @@
+G:\Sample Project\WebApiDemo\DemoCore\obj\Debug\DemoCore.csprojResolveAssemblyReference.cache
+G:\Sample Project\WebApiDemo\DemoCore\bin\Debug\DemoCore.dll
+G:\Sample Project\WebApiDemo\DemoCore\bin\Debug\DemoCore.pdb
+G:\Sample Project\WebApiDemo\DemoCore\bin\Debug\Newtonsoft.Json.dll
+G:\Sample Project\WebApiDemo\DemoCore\bin\Debug\Newtonsoft.Json.xml
+G:\Sample Project\WebApiDemo\DemoCore\obj\Debug\DemoCore.dll
+G:\Sample Project\WebApiDemo\DemoCore\obj\Debug\DemoCore.pdb

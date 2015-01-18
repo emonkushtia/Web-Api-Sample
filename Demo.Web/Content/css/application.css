@@ -1,0 +1,159 @@
+﻿.content-wrapper {
+    padding: 15px 0;
+}
+.panel {
+    background-color: #ffffff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05);
+    margin-bottom: 20px;
+}
+.panel-primary {
+    border-color: #428bca;
+}
+.panel-heading {
+    background-color: #428bca;
+    border-color: #428bca;
+    color: #ffffff;
+}
+.panel-heading {
+    padding: 10px 8px;
+}
+.table {
+    margin-bottom: 20px;
+    max-width: 100%;
+    width: 100%;
+}
+table {
+    background-color: transparent;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.table-heading thead tr {
+    background-color: #f0f0f0;
+    background-image: linear-gradient(to bottom, #f0f0f0, #dfdfdf);
+}
+table.sortable thead th {
+    cursor: pointer;
+}
+.select2-container .select2-choice {
+    -moz-user-select: none;
+    background-clip: padding-box;
+    background-color: #fff;
+    background-image: linear-gradient(to top, #eeeeee 0%, #ffffff 50%);
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    color: #444;
+    display: block;
+    height: 26px;
+    line-height: 26px;
+    overflow: hidden;
+    padding: 0 0 0 8px;
+    position: relative;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.clearfix:before, .clearfix:after, .dl-horizontal dd:before, .dl-horizontal dd:after, .container:before, .container:after, .container-fluid:before, .container-fluid:after, .row:before, .row:after, .form-horizontal .form-group:before, .form-horizontal .form-group:after, .btn-toolbar:before, .btn-toolbar:after, .btn-group-vertical > .btn-group:before, .btn-group-vertical > .btn-group:after, .nav:before, .nav:after, .navbar:before, .navbar:after, .navbar-header:before, .navbar-header:after, .navbar-collapse:before, .navbar-collapse:after, .pager:before, .pager:after, .panel-body:before, .panel-body:after, .modal-footer:before, .modal-footer:after {
+    content: " ";
+    display: table;
+}
+*:before, *:after {
+    box-sizing: border-box;
+}
+.clearfix:after, .dl-horizontal dd:after, .container:after, .container-fluid:after, .row:after, .form-horizontal .form-group:after, .btn-toolbar:after, .btn-group-vertical > .btn-group:after, .nav:after, .navbar:after, .navbar-header:after, .navbar-collapse:after, .pager:after, .panel-body:after, .modal-footer:after {
+    clear: both;
+}
+.clearfix:before, .clearfix:after, .dl-horizontal dd:before, .dl-horizontal dd:after, .container:before, .container:after, .container-fluid:before, .container-fluid:after, .row:before, .row:after, .form-horizontal .form-group:before, .form-horizontal .form-group:after, .btn-toolbar:before, .btn-toolbar:after, .btn-group-vertical > .btn-group:before, .btn-group-vertical > .btn-group:after, .nav:before, .nav:after, .navbar:before, .navbar:after, .navbar-header:before, .navbar-header:after, .navbar-collapse:before, .navbar-collapse:after, .pager:before, .pager:after, .panel-body:before, .panel-body:after, .modal-footer:before, .modal-footer:after {
+    content: " ";
+    display: table;
+}
+.paging-record-count {
+    display: inline-block;
+    width: 60px;
+}
+
+table.sortable span.sign {
+  display: block;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  font-size: 12px;
+  margin-top: -10px;
+  color: #bfbfc1;
+}
+table.sortable span.arrow,
+span.reversed {
+  border-style: solid;
+  border-width: 5px;
+  font-size: 0;
+  border-color: #ccc transparent transparent transparent;
+  line-height: 0;
+  height: 0;
+  width: 0;
+  margin-top: -2px;
+}
+table.sortable span.arrow.up {
+  border-color: transparent transparent #ccc transparent;
+  margin-top: -7px;
+}
+table.sortable span.reversed {
+  border-color: transparent transparent #ccc transparent;
+  margin-top: -7px;
+}
+table.sortable span.reversed.up {
+  border-color: #ccc transparent transparent transparent;
+  margin-top: -2px;
+}
+table.sortable span.az:before {
+  content: "a .. z";
+}
+table.sortable span.az.up:before {
+  content: "z .. a";
+}
+table.sortable span.AZ:before {
+  content: "A .. Z";
+}
+table.sortable span.AZ.up:before {
+  content: "Z .. A";
+}
+table.sortable span._19:before {
+  content: "1 .. 9";
+}
+table.sortable span._19.up:before {
+  content: "9 .. 1";
+}
+table.sortable span.month:before {
+  content: "jan .. dec";
+}
+table.sortable span.month.up:before {
+  content: "dec .. jan";
+}
+table.sortable thead th {
+  /*:not([data-defaultsort=disabled]) {*/
+  cursor: pointer;
+  /*
+    position: relative;
+    top: 0;
+    left: 0;
+*/
+}
+table.sortable thead th:hover {
+  /*:not([data-defaultsort=disabled]) {*/
+  background: #efefef;
+}
+table.sortable thead th div.mozilla {
+  position: relative;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.form-group .help-block {
+  display: none;
+}
+ 
+.form-group.has-error .help-block {
+  display: block;
+}

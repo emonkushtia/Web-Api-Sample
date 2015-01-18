@@ -1,0 +1,68 @@
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\Demo.Web.dll.config
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\Demo.Web.dll
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\Demo.Web.pdb
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\Newtonsoft.Json.dll
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\System.Linq.Dynamic.dll
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\System.Net.Http.Formatting.dll
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\System.Web.Http.dll
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\System.Web.Http.WebHost.dll
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\Newtonsoft.Json.xml
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\System.Net.Http.Formatting.xml
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\System.Web.Http.xml
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\System.Web.Http.WebHost.xml
+G:\Sample Project\WebApiDemo\WebApiDemo\obj\Debug\Demo.Web.csprojResolveAssemblyReference.cache
+G:\Sample Project\WebApiDemo\WebApiDemo\obj\Debug\Demo.Web.dll
+G:\Sample Project\WebApiDemo\WebApiDemo\obj\Debug\Demo.Web.pdb
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\Demo.Core.dll
+G:\Sample Project\WebApiDemo\WebApiDemo\bin\Demo.Core.pdb
+G:\Sample Project\WebApiDemo\Demo.Web\bin\Demo.Web.dll.config
+G:\Sample Project\WebApiDemo\Demo.Web\bin\Demo.Web.dll
+G:\Sample Project\WebApiDemo\Demo.Web\bin\Demo.Web.pdb
+G:\Sample Project\WebApiDemo\Demo.Web\bin\Newtonsoft.Json.dll
+G:\Sample Project\WebApiDemo\Demo.Web\bin\System.Linq.Dynamic.dll
+G:\Sample Project\WebApiDemo\Demo.Web\bin\System.Net.Http.Formatting.dll
+G:\Sample Project\WebApiDemo\Demo.Web\bin\System.Web.Http.dll
+G:\Sample Project\WebApiDemo\Demo.Web\bin\System.Web.Http.WebHost.dll
+G:\Sample Project\WebApiDemo\Demo.Web\bin\Newtonsoft.Json.xml
+G:\Sample Project\WebApiDemo\Demo.Web\bin\System.Net.Http.Formatting.xml
+G:\Sample Project\WebApiDemo\Demo.Web\bin\System.Web.Http.xml
+G:\Sample Project\WebApiDemo\Demo.Web\bin\System.Web.Http.WebHost.xml
+G:\Sample Project\WebApiDemo\Demo.Web\obj\Debug\Demo.Web.csprojResolveAssemblyReference.cache
+G:\Sample Project\WebApiDemo\Demo.Web\obj\Debug\Demo.Web.dll
+G:\Sample Project\WebApiDemo\Demo.Web\obj\Debug\Demo.Web.pdb
+G:\Sample Project\WebApiDemo\Demo.Web\bin\Demo.Core.dll
+G:\Sample Project\WebApiDemo\Demo.Web\bin\Demo.Core.pdb
+G:\WebApi\Demo.Web\bin\Demo.Web.dll.config
+G:\WebApi\Demo.Web\bin\Demo.Web.dll
+G:\WebApi\Demo.Web\bin\Demo.Web.pdb
+G:\WebApi\Demo.Web\bin\Demo.Core.dll
+G:\WebApi\Demo.Web\bin\Newtonsoft.Json.dll
+G:\WebApi\Demo.Web\bin\System.Linq.Dynamic.dll
+G:\WebApi\Demo.Web\bin\System.Net.Http.Formatting.dll
+G:\WebApi\Demo.Web\bin\System.Web.Http.dll
+G:\WebApi\Demo.Web\bin\System.Web.Http.WebHost.dll
+G:\WebApi\Demo.Web\bin\Demo.Core.pdb
+G:\WebApi\Demo.Web\bin\Newtonsoft.Json.xml
+G:\WebApi\Demo.Web\bin\System.Net.Http.Formatting.xml
+G:\WebApi\Demo.Web\bin\System.Web.Http.xml
+G:\WebApi\Demo.Web\bin\System.Web.Http.WebHost.xml
+G:\WebApi\Demo.Web\obj\Debug\Demo.Web.csprojResolveAssemblyReference.cache
+G:\WebApi\Demo.Web\obj\Debug\Demo.Web.dll
+G:\WebApi\Demo.Web\obj\Debug\Demo.Web.pdb
+G:\Sample Project\WebApi\Demo.Web\bin\Demo.Web.dll.config
+G:\Sample Project\WebApi\Demo.Web\bin\Demo.Web.dll
+G:\Sample Project\WebApi\Demo.Web\bin\Demo.Web.pdb
+G:\Sample Project\WebApi\Demo.Web\bin\Demo.Core.dll
+G:\Sample Project\WebApi\Demo.Web\bin\Newtonsoft.Json.dll
+G:\Sample Project\WebApi\Demo.Web\bin\System.Linq.Dynamic.dll
+G:\Sample Project\WebApi\Demo.Web\bin\System.Net.Http.Formatting.dll
+G:\Sample Project\WebApi\Demo.Web\bin\System.Web.Http.dll
+G:\Sample Project\WebApi\Demo.Web\bin\System.Web.Http.WebHost.dll
+G:\Sample Project\WebApi\Demo.Web\bin\Demo.Core.pdb
+G:\Sample Project\WebApi\Demo.Web\bin\Newtonsoft.Json.xml
+G:\Sample Project\WebApi\Demo.Web\bin\System.Net.Http.Formatting.xml
+G:\Sample Project\WebApi\Demo.Web\bin\System.Web.Http.xml
+G:\Sample Project\WebApi\Demo.Web\bin\System.Web.Http.WebHost.xml
+G:\Sample Project\WebApi\Demo.Web\obj\Debug\Demo.Web.csprojResolveAssemblyReference.cache
+G:\Sample Project\WebApi\Demo.Web\obj\Debug\Demo.Web.dll
+G:\Sample Project\WebApi\Demo.Web\obj\Debug\Demo.Web.pdb

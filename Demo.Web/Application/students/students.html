@@ -1,0 +1,97 @@
+﻿ 
+<!-- Page Heading -->
+<div class="row">
+    <div class="col-lg-12">
+        <h1 class="page-header">
+            Students
+            <a href="#/student/create" class="btn btn-primary pull-right"> Create New Student</a>
+        </h1>
+        <ol class="breadcrumb">
+            <li>
+                <i class="fa fa-dashboard"></i>  <a href="#/">Dashboard</a>
+            </li>
+            <li class="active">
+               Students
+            </li>
+        </ol>
+    </div>
+</div>
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        <h3 class="panel-title">Student List</h3>
+    </div>
+
+    <table class="table table-striped table-bordered table-hover table-heading no-border-bottom sortable">
+        <thead>
+            <tr>
+                <th data-ng-class="{ sorted: StudentList.isSortedBy('firstName') }" data-ng-click="StudentList.sort('firstName')">
+                    <div class="mozilla">
+                        First Name
+                        <span class="sign arrow" data-ng-if="StudentList.isSortedBy('firstName') && StudentList.isDescending()"></span>
+                        <span class="sign arrow up" data-ng-if="StudentList.isSortedBy('firstName') && !StudentList.isDescending()"></span>
+                    </div>
+                </th>
+                <th data-ng-class="{ sorted: StudentList.isSortedBy('lastName') }" data-ng-click="StudentList.sort('lastName')">
+                    <div class="mozilla">
+                        Last Name
+                        <span class="sign arrow" data-ng-if="StudentList.isSortedBy('lastName') && StudentList.isDescending()"></span>
+                        <span class="sign arrow up" data-ng-if="StudentList.isSortedBy('lastName') && !StudentList.isDescending()"></span>
+                    </div>
+                </th>
+                <th data-ng-class="{ sorted: StudentList.isSortedBy('email') }" data-ng-click="StudentList.sort('email')">
+                    <div class="mozilla">
+                        Email
+                        <span class="sign arrow" data-ng-if="StudentList.isSortedBy('email') && StudentList.isDescending()"></span>
+                        <span class="sign arrow up" data-ng-if="StudentList.isSortedBy('email') && !StudentList.isDescending()"></span>
+                    </div>
+                </th>
+                <th data-ng-class="{ sorted: StudentList.isSortedBy('phone') }" data-ng-click="StudentList.sort('phone')">
+                    <div class="mozilla">
+                        Phone
+                        <span class="sign arrow" data-ng-if="StudentList.isSortedBy('phone') && StudentList.isDescending()"></span>
+                        <span class="sign arrow up" data-ng-if="StudentList.isSortedBy('phone') && !StudentList.isDescending()"></span>
+                    </div>
+                </th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr data-ng-repeat="item in StudentList.students">
+                <td>
+                    {{item.firstName}}
+                </td>
+                <td>
+                    {{item.lastName}}
+                </td>
+                <td>
+                    {{item.email}}
+                </td>
+                <td>
+                    {{item.phone}}
+                </td>
+                <td style="width: 10%">
+                    <a href="#/student/{{item.id}}/edit" title="Edit"><i class="fa fa-edit"></i></a>
+                    <a href="#/student/{{item.id}}/details" title="Details"><i class="fa fa-inbox"></i></a>
+                    <a href="javascript:;" title="Clone"><i class="fa fa-copy" data-ng-click="StudentList.clone(item)"></i></a>
+                    <a href="javascript:;" title="Delete"><i class="fa fa-trash-o" data-ng-click="StudentList.remove(item.id)"></i></a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div class="panel-footer clearfix">
+        Show per page:
+        <div class="paging-record-count">
+            <select data-ui-select2="{ allowClear: false,minimumResultsForSearch: -1, width: '100%'}" data-ng-model="StudentList.pageSize" data-ng-change="StudentList.pageSizeChanged()">
+                <option value="5">5</option>
+                <option value="10">10</option>
+                <option value="25">25</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+            </select>
+
+        </div>
+        records
+        <pagination data-ng-show="StudentList.totalItems > StudentList.pageSize" class="pull-right" data-boundary-links="true" data-direction-links="false" data-total-items="StudentList.totalItems" data-items-per-page="StudentList.pageSize" data-ng-model="StudentList.currentPage" data-ng-change="StudentList.pageChanged()" class="pagination-sm" first-text="&laquo;" last-text="&raquo;"></pagination>
+    </div>
+</div>
