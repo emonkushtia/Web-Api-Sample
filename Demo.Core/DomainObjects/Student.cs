@@ -1,14 +1,22 @@
-﻿using System;
-
-namespace Demo.Core.DomainObjects
+﻿namespace Demo.Core.DomainObjects
 {
-     [Serializable]
+    using System;
+    using System.ComponentModel.DataAnnotations;
+    using System.ComponentModel.DataAnnotations.Schema;
+
+    [Serializable]
+    [Table("Students")]
     public class Student
     {
+        [Key]
         public int Id { get; set; }
+
         public string FirstName { get; set; }
+
         public string LastName { get; set; }
+
         public string Email { get; set; }
+
         public string Phone { get; set; }
 
     }

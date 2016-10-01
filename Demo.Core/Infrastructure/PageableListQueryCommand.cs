@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.Globalization;
-using System.Linq;
-//using Demo.Core.ExtensionMethods;
-
-namespace Demo.Core.Infrastructure
+﻿namespace Demo.Core.Infrastructure
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
     [Serializable]
     public class PageableListQueryCommand<TDomainObject> 
         where TDomainObject : class
@@ -27,7 +24,6 @@ namespace Demo.Core.Infrastructure
         public int? Offset { get; set; }
 
         public int Limit { get; set; }
-
        
         public virtual string GetOrderByClause()
         {
@@ -67,6 +63,5 @@ namespace Demo.Core.Infrastructure
 
             return sortProperty + " " + sort[1];
         }
-
     }
 }

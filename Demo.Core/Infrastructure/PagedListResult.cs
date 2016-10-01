@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace Demo.Core.Infrastructure
+﻿namespace Demo.Core.Infrastructure
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
 
     [Serializable]
     public class PagedListResult<TDataTransferObject>
